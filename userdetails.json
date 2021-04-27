@@ -1,0 +1,14 @@
+{
+    "user": [
+        {
+            "Username": "preeti thakur",
+            "Password": "Preeti@123",
+            "Profile": {
+                "description": "hello everone I am preeti.",
+                "d_o_b": "28 DEC 2021",
+                "Gender": "Female",
+                "Hobbies": "Cycling and travling"
+            }
+        }
+    ]
+}
