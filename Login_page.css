@@ -1,0 +1,81 @@
+body {
+    margin-left: 4rem;
+}
+
+.sign_in {
+    font-size: 35px;
+    margin-top: 3rem;
+    color: rgb(148, 146, 146);
+}
+
+.Email {
+    display: block;
+    margin-top: 2rem;
+}
+
+.mail {
+    display: block;
+    padding: 1rem 8rem;
+    border: 2px solid rgb(221, 219, 219);
+}
+
+.password {
+    display: block;
+    margin-top: 1.6rem;
+}
+
+.case {
+    position: absolute;
+    margin-left: 20rem;
+    margin-top: -1.7rem;
+    font-size: small;
+    color: rgb(87, 82, 82);
+}
+
+.password1 {
+    display: block;
+    padding: 1rem 8rem;
+    border: 2px solid rgb(221, 219, 219);
+}
+
+.show {
+    position: absolute;
+    margin-top: -1.8rem;
+    margin-left: 22rem;
+    color: black;
+}
+
+.box {
+    margin-top: 1rem;
+}
+
+.para {
+    margin-left: 0.2rem;
+}
+
+.para1 {
+    margin-left: 1.6rem;
+    margin-top: 0.5rem;
+    font-size: 14px;
+    color: rgb(59, 58, 58);
+}
+
+.link {
+    color: black;
+}
+
+.button {
+    display: block;
+    margin-top: 2.5rem;
+    margin-bottom: 1.5rem;
+    background-color: rgb(241, 67, 67);
+    padding: 0.8rem 12rem;
+    border: none;
+    color: white;
+    font-size: large;
+}
+
+.forget {
+    margin-left: 9rem;
+    color: black;
+}
